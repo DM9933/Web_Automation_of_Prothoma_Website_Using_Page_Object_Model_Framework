@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name ="Prothoma.com">
+    <test name="Test">
+        <classes>
+            <class name="me.selenium.POM.tests.HomePage_Test"/>
+            <class name="me.selenium.POM.tests.ScrollDown_Test"/>
+            <class name="me.selenium.POM.tests.FilterByCategory_Test"/>
+        </classes>
+    </test>
+</suite>
